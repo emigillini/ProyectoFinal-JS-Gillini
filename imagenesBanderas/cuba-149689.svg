@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+ <path d="m0 0h800v400h-800z" fill="#002a8f"/>
+ <path d="m0 80h800v80h-800z" fill="#fff"/>
+ <path d="m0 240h800v80h-800z" fill="#fff"/>
+ <path d="m0 0v400l346.41-200z" fill="#cf142b"/>
+ <path d="m115.47 140-13.469 41.469h-43.594l35.25 25.625-13.469 41.438 35.281-25.625 35.281 25.625-13.469-41.438 35.25-25.625h-43.594l-13.469-41.469z" fill="#fff"/>
+</svg>

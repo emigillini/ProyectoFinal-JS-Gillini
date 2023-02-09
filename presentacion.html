@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="shortcut icon" href="/imagenes/continents-774842_1920.jpg" type="image/x-icon">
+    <title>Trivia de paises</title>
+</head>
+
+<body>
+
+<header>
+
+    <div>
+        <h1>Super Trivia de Paises y capitales</h1>
+    </div>
+
+</header>
+
+<div id="resultado" class="tipoRespuesta"><p class="subtotales"> La respuesta es</p></div>
+<div id="ptosAcum" class="tipoRespuesta2"><p class="subtotales">Total es</p></div>
+    
+<section>
+    <div>
+        <h2>Elige la capital correcta</h2>
+        <h3> Cual es la capital de los siguientes paises, cada respuesta correcta te da 10 puntos, si te quivocas, restas 10 puntos.</h3>
+    </div>
+
+    <div id="pregunta1">
+        <p>🌎🌎🌎🌎Cual es la Capital de <strong id = "capital1"></strong>🌎🌎🌎🌎</p>
+        <button id="botc1"></button>
+        <button id="bot1"></button>
+        <button id="bot2"></button>
+    </div>
+
+    <div id="pregunta2">
+        <p>🌎🌎🌎🌎Cual es la Capital de <strong id = "capital2"></strong>🌎🌎🌎🌎</p>
+        <button id="bot3"></button>
+        <button id="botc2"></button>
+        <button id="bot4" ></button>
+    </div>
+
+    <div id="pregunta3">
+        <p>🌎🌎🌎🌎Cual es la Capital de <strong id = "capital3"></strong>🌎🌎🌎🌎</p>
+        <button id="botc3"></button>
+        <button id="bot5"></button>
+        <button id="bot6" ></button>
+    </div>
+
+    <div id="pregunta4">
+        <p>🌎🌎🌎🌎Cual es la Capital de <strong id = "capital4"></strong>🌎🌎🌎🌎</p>
+        <button id="bot7" ></button>
+        <button id="botc4"></button>
+        <button id="bot8" ></button>
+    </div>
+
+    <div id="pregunta5">
+        <p>🌎🌎🌎🌎Cual es la Capital de <strong id = "capital5"></strong>🌎🌎🌎🌎</p>
+        <button id="botc5" ></button>
+        <button id="bot9"></button>
+        <button id="bot10" ></button>
+    </div>
+
+</section>
+
+<section >
+        
+    <h2>A que pais corresponde cada bandera</h2>
+
+    <h3>Mira la bandera y selecciona a que pais pertenece</h3>
+        
+    <div id="pregunta6 "class="banderas">
+        <div id= "bandera1"> </div>
+        <button id="botb1"></button>
+        <button id="botcb1"></button>
+        <button id="botb2"></button>
+    </div>
+
+    <div  id="pregunta7 "class="banderas">
+        <div id= "bandera2"> </div>
+        <button id="botcb2"></button>
+        <button id="botb3"></button>
+        <button id="botb4"></button>
+    </div>
+
+    <div id="pregunta8 "class="banderas">
+        <div id= "bandera3"> </div>
+        <button id="botb5"></button>
+        <button id="botb6"></button>
+        <button id="botcb3"></button>
+    </div>
+
+    <div  id="pregunta9 "class="banderas">
+        <div id= "bandera4"> </div>
+        <button id="botb7"></button>
+        <button id="botcb4"></button>
+        <button id="botb8"></button>
+    </div>
+
+    <div  id="pregunta10 "class="banderas">
+        <div id= "bandera5"> </div>
+        <button id="botcb5"></button>
+        <button id="botb9"></button>
+        <button id="botb10"></button>
+    </div>
+
+</section>
+
+
+
+<section>
+            
+    <h2>Cuantos habitantes tienen los siguientes paises</h2>
+
+    <h3>Selecciona la cantidad de habitantes de los siguientes paises:</h3>
+
+    <div  id="pregunta11 ">
+        <p> Habitantes de <strong id = "habitantes1"></strong></p>
+        <button id="bothc1"></button>
+        <button id="both1"></button>
+        <button id="both2"></button>
+    </div>
+    
+    <div id="pregunta12 ">
+        <p>Habitantes de <strong id = "habitantes2"></strong></p>
+        <button id="both3"></button>
+        <button id="bothc2"></button>
+        <button id="both4" ></button>
+    </div >
+    
+    <div id="pregunta13 ">
+        <p>Habitantes de <strong id = "habitantes3"></strong></p>
+        <button id="bothc3"></button>
+        <button id="both5"></button>
+        <button id="both6" ></button>
+    </div>
+    
+    <div id="pregunta14 ">
+        <p>Habitantes de <strong id = "habitantes4"></strong></p>
+        <button id="both7" ></button>
+        <button id="bothc4"></button>
+        <button id="both8" ></button>
+    </div>
+    
+    <div id="pregunta15 ">
+        <p>Habitantes de <strong id = "habitantes5"></strong></p>
+        <button id="bothc5" ></button>
+        <button id="both9"></button>
+        <button id="both10" ></button>
+    </div>
+    
+</section>
+
+<section class="mapa">
+
+<h2 >Adivina el pais</h2>
+<h3>Cual es el pais al que pertenece la imagen</h3>
+
+    <div id="mostrarPais1"></div>
+
+    <div  id="pregunta16 "> 
+        <button id="botp1"></button>
+        <button id="botcp1"></button>
+        <button id="botp2"></button>
+    </div>
+        
+    <div id="mostrarPais2"></div>
+
+    <div id="pregunta17 "> 
+        <button id="botcp2"></button>
+        <button id="botp3"></button>
+        <button id="botp4"></button>
+    </div>
+
+    <div id="mostrarPais3"></div>
+
+    <div id="pregunta18 "> 
+        <button id="botp6"></button>
+        <button id="botp5"></button>
+        <button id="botcp3"></button>
+    </div>
+
+    <div id="mostrarPais4"></div>
+
+    <div id="pregunta19 "> 
+        <button id="botcp4"></button>
+        <button id="botp8"></button>
+        <button id="botp7"></button>
+    </div>   
+        
+    <div id="mostrarPais5"></div>
+
+    <div id="pregunta20 "> 
+        <button id="botp10"></button>
+        <button id="botcp5"></button>
+        <button id="botp9"></button>
+    </div>
+
+</section>
+
+<section class="totales">
+
+<h2>Total de puntos</h2>
+
+    <button id="totalPuntos" >Total Puntos y categoria</button>
+    <button id="listaPais">Aprende sobre los paises</button>
+</section >
+    
+<nav>
+
+    <div class="sidenav">
+    <p class="subtotales">Puntos por juego</p>
+    <p class="sub"id="subtotales1"></p>
+    <p class="sub"id="subtotales2"></p>
+    <p class="sub"id="subtotales3"></p>
+    <p class="sub"id="subtotales4"></p>
+    </div>
+
+</nav>
+
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+<script src="/miarchivo.js"></script>
+
+</body>
+
+</html> 

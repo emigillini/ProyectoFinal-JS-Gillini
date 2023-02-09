@@ -1,0 +1,18 @@
+[
+    {"pais" : "Argentina", "capital" :"Buenos Aires", "habitantes": 47327407, "mapa": "<img src=/imagenesmapa/argentina-5323216.svg width=150 height=150 alt=mapa >", "bandera":"<img src=/imagenesBanderas/argentina-162229.svg width=100 alt=bandera>"},
+    {"pais" : "Bolivia", "capital" :"La Paz", "habitantes": 11832986, "mapa": "<img src=/imagenesmapa/bolivia-1296997.svg width=150 alt=mapa>", "bandera":"<img src=/imagenesBanderas/bolivia-162245.svg width=100 alt=bandera>"},
+    {"pais" : "Cuba", "capital" :"La habana", "habitantes": 11317498, "mapa": "<img src=/imagenesmapa/cuba-5323227.svg width=150 alt=mapa>", "bandera":"<img src=/imagenesBanderas/cuba-149689.svg width=100 alt=bandera>"},
+    {"pais" : "Canada", "capital" :"Ottawa", "habitantes": 38929902, "mapa": "<img src=/imagenesmapa/canada-42703.svg width=150 alt=mapa>", "bandera":"<img src=/imagenesBanderas/canada-27003.svg width=100 alt=bandera>"},
+    {"pais" : "Alemania", "capital" :"Berlin", "habitantes": 83811678, "mapa":"<img src=/imagenesmapa/germany-890238.svg width=150 height=150 alt=mapa>", "bandera":"<img src=/imagenesBanderas/germany-31017.svg width=100 alt=bandera>"},
+    {"pais" : "Francia", "capital" :"Paris", "habitantes": 66099138, "mapa":"<img src=/imagenesmapa/francia-160361.svg width=150 alt=mapa>", "bandera":"<img src=/imagenesBanderas/france-151928.svg width=100 alt=bandera>"},
+    {"pais" : "Nigeria", "capital" :"Abuya", "habitantes": 220546713, "mapa":"<img src=/imagenesmapa/nigeria-1758969.svg width=150 alt=mapa>", "bandera":"<img src=/imagenesBanderas/nigeria-162376.svg width=100 alt=bandera>"},
+    {"pais" : "Japon", "capital" :"Tokio", "habitantes": 126212981, "mapa":"<img src=/imagenesmapa/japan-5905996.svg width=150 alt=mapa>", "bandera":"<img src=/imagenesBanderas/japan-26803.svg width=100 alt=bandera>"},
+    {"pais" : "Rusia", "capital" :"Moscu", "habitantes": 146085669, "mapa":"<img src=/imagenesmapa/rusias-1297160.svg width=150 alt=mapa>", "bandera":"<img src=/imagenesBanderas/russia-162400.svg width=100 alt=bandera>"},
+    {"pais" : "Bulgaria", "capital" :"Sofia", "habitantes":  6878000, "mapa":"<img src=/imagenesmapa/bulgaria-1758816.svg width=150 alt=mapa>", "bandera": "<img src=/imagenesBanderas/bulgaria-162254.svg width=100 alt=bandera>"},
+    {"pais" : "Holanda", "capital" :"Amsterdan", "habitantes":  17193499, "mapa":"<img src=/imagenesmapa/netherlands-1758841.svg width=150 alt=mapa>", "bandera": "<img src=/imagenesBanderas/netherlands-26885.svg width=100 alt=bandera>"},
+    {"pais" : "Peru", "capital" :"Lima", "habitantes":  33396700, "mapa":"<img src=/imagenesmapa/Peru-1297000.svg width=150 alt=mapa>", "bandera": "<img src=/imagenesBanderas/peru-162390.svg width=100 alt=bandera>"},
+    {"pais" : "España", "capital" :"Madrid", "habitantes":  47435597, "mapa":"<img src=/imagenesmapa/spain-1758851.svg width=150 alt=mapa>", "bandera":  "<img src=/imagenesBanderas/spain-28530.svg width=100 alt=bandera>"},
+    {"pais" : "Italia", "capital" :"Roma", "habitantes":  59263213, "mapa":"<img src=/imagenesmapa/italy-880116.svg width=150 alt=mapa>", "bandera":  "<img src=/imagenesBanderas/italy-162326.svg width=100 alt=bandera>"},
+    {"pais" : "Ucrania", "capital" :"Kiev", "habitantes":  41167336, "mapa":"<img src=/imagenesmapa/ukraine-7046472.svg width=150 alt=mapa>", "bandera":  "<img src=/imagenesBanderas/ukraine-162450.svg width=100 alt=bandera>"},
+    {"pais" : "Brasil", "capital" :"Brasilia", "habitantes":  210385000, "mapa":"<img src=/imagenesmapa/brazil-881119.svg width=200 height=150 alt=mapa>", "bandera":  "<img src=/imagenesBanderas/brazil-305531.svg width=100 alt=bandera>"}
+]
